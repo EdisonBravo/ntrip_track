@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /ntrip_track
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: NTRIP TRACK
+  name: TRACK NTRIP IGM Ecuador
   introTitle: "**Geoportal IGM** página de monitoreo de CASTER de NTRIP del IGM Ecuador"
   introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
   navbar:
