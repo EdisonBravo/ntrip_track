@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://EdisonBravo.github.io/ntrip_track)
+[**Visitar la página de estado →**](https://EdisonBravo.github.io/ntrip_track)
 
 ## 📄 License
 
