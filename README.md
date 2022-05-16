@@ -1,6 +1,6 @@
-# [📈 Estado en vivo](https://EdisonBravo.github.io/ntrip_track): <!--live status--> **🟩 All systems operational**
+# [📈 Estado en vivo](https://EdisonBravo.github.io/ntrip_track): <!--live status--> **🟩 Todos los sistemas operativos**
 
-This repository contains the open-source uptime monitor and status page for [EdisonBravo](https://EdisonBravo.github.io/ntrip_track), powered by [Upptime](https://github.com/upptime/upptime).
+Este repositorio contiene el monitor de tiempo de actividad de código abierto y la página de estado para [EdisonBravo](https://EdisonBravo.github.io/ntrip_track), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/EdisonBravo/ntrip_track/workflows/Uptime%20CI/badge.svg)](https://github.com/EdisonBravo/ntrip_track/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/EdisonBravo/ntrip_track/workflows/Response%20Time%20CI/badge.svg)](https://github.com/EdisonBravo/ntrip_track/actions?query=workflow%3A%22Response+Time+CI%22)
