@@ -25,8 +25,8 @@ status-website:
   navbar:
     - title: Estado
       href: /ntrip_track
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # Mirar https://upptime.js.org/docs/configuration
