@@ -1,23 +1,5 @@
 [
   {
-    "name": "Geoportal IGM",
-    "url": "https://www.geoportaligm.gob.ec",
-    "icon": "https://favicons.githubusercontent.com/www.geoportaligm.gob.ec",
-    "slug": "geoportal-igm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1067,
-    "timeWeek": 1067,
-    "timeMonth": 1067,
-    "timeYear": 1067,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "CASTER NTRIP IGM (Principal)",
     "url": "http://regme-ip.igm.gob.ec:2101",
     "icon": "https://favicons.githubusercontent.com/regme-ip.igm.gob.ec",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 491,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 520,
+    "timeDay": 531,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 435,
-    "timeWeek": 454,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "time": 465,
+    "timeDay": 461,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Geoserver AFC",
-    "url": "https://www.geoportaligm.gob.ec/igm_afc",
-    "icon": "https://favicons.githubusercontent.com/www.geoportaligm.gob.ec",
-    "slug": "geoserver-afc",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "95.65%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-05-16": 30
-    }
   }
 ]
