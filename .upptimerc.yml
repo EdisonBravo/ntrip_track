@@ -10,7 +10,7 @@ sites:
   - name: CASTER NTRIP IGM-ESPOCH (Backup)
     url: http://regme-ip.espoch.edu.ec:2101
   - name: Geoserver AFC
-    url: https://www.geoportaligm.gob.ec/igm_afc2019
+    url: https://www.geoportaligm.gob.ec/igm_afc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
