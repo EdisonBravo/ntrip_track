@@ -23,8 +23,8 @@ status-website:
   #introTitle: "**Geoportal IGM** página de monitoreo de CASTER de NTRIP del IGM Ecuador"
   #introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
   #navbar:
-  #  - title: Estado
-  #    href: /ntrip_track
+    - title: Estado
+      href: /ntrip_track
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
 
