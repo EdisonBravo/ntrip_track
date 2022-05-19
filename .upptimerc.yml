@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /ntrip_track
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/EdisonBravo/ntrip_track/master/assets/igm-icon.svg
   name: TRACK NTRIP IGM Ecuador
   theme: light
   #introTitle: "**Geoportal IGM** página de monitoreo de CASTER de NTRIP del IGM Ecuador"
