@@ -19,7 +19,7 @@ status-website:
   baseUrl: /ntrip_track
   logoUrl: https://raw.githubusercontent.com/EdisonBravo/ntrip_track/master/assets/igm-icon.svg
   name: TRACK NTRIP IGM Ecuador
-  theme: dark
+  theme: night
   #introTitle: "**Geoportal IGM** página de monitoreo de CASTER de NTRIP del IGM Ecuador"
   #introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
   navbar:
