@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
-    "timeDay": 522,
-    "timeWeek": 516,
+    "timeDay": 514,
+    "timeWeek": 515,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {}
@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/regme-ip.espoch.edu.ec",
     "slug": "caster-ntrip-igm-espoch-backup",
     "status": "up",
-    "uptime": "79.56%",
+    "uptime": "79.73%",
     "uptimeDay": "39.38%",
     "uptimeWeek": "65.72%",
-    "uptimeMonth": "79.56%",
-    "uptimeYear": "79.56%",
+    "uptimeMonth": "79.73%",
+    "uptimeYear": "79.73%",
     "time": 472,
-    "timeDay": 454,
+    "timeDay": 461,
     "timeWeek": 476,
     "timeMonth": 472,
     "timeYear": 472,
@@ -39,34 +39,6 @@
       "2022-05-22": 457,
       "2022-05-21": 1440,
       "2022-05-20": 686
-    }
-  },
-  {
-    "name": "Geoserver AFC",
-    "url": "https://www.geoportaligm.gob.ec/igm_afc2019",
-    "icon": "https://favicons.githubusercontent.com/www.geoportaligm.gob.ec",
-    "slug": "geoserver-afc",
-    "status": "down",
-    "uptime": "3.05%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.05%",
-    "uptimeYear": "3.05%",
-    "time": 569,
-    "timeDay": 621,
-    "timeWeek": 610,
-    "timeMonth": 569,
-    "timeYear": 569,
-    "dailyMinutesDown": {
-      "2022-05-25": 865,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440,
-      "2022-05-22": 1440,
-      "2022-05-21": 1440,
-      "2022-05-20": 1440,
-      "2022-05-19": 1440,
-      "2022-05-18": 267,
-      "2022-05-16": 30
     }
   }
 ]
