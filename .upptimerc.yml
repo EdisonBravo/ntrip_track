@@ -5,10 +5,10 @@ repo: ntrip_track # The name of this repository
 sites:
 #  - name: Geoportal IGM
 #    url: https://www.geoportaligm.gob.ec
-  - name: CASTER NTRIP IGM (Principal)
-    url: http://regme-ip.igm.gob.ec:2101
-  - name: CASTER NTRIP IGM-ESPOCH (Backup)
-    url: http://regme-ip.espoch.edu.ec:2101
+  #- name: CASTER NTRIP IGM (Principal)
+  #  url: http://regme-ip.igm.gob.ec:2101
+  #- name: CASTER NTRIP IGM-ESPOCH (Backup)
+  #  url: http://regme-ip.espoch.edu.ec:2101
   #- name: Geoserver AFC
   #  url: https://www.geoportaligm.gob.ec/igm_afc2019
 
